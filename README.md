@@ -48,6 +48,7 @@ To run this keylogger on your local machine, follow the steps below:
     ```bash
     python keylogger.py
     ```
+    If python not install on mac then run "brew install python" and then if not given write permissions to the homebrew folder then give it using sudo "chown -R 'username' /opt/homebrew"
 
 ---
 
